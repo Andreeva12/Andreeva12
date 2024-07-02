@@ -10,6 +10,7 @@ From a curious explorer to a detail-oriented QA tester, my journey in tech start
 
 - **RSSchool CV Project**: Participation in EPAM's courses in Belarus, focusing on foundational web development skills. [View Repository](https://github.com/Andreeva12/rsschool-cv)
 - **StepIT Academy Projects**: Hands-on projects focusing on Java, JavaScript, and more. [View Repository](https://github.com/Andreeva12/stepIT)
+- **Katalon Studio v9 Projects**: Hands-on projects focusing on Java, Gherkin, and more. [View Repository](https://github.com/Andreeva12/Katalon_Tests)
 
 
 ### Skills
