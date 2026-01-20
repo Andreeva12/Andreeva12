@@ -45,7 +45,7 @@ Feel free to reach out for collaborations, questions, or just to say hi:
 🔭 This is all my education:
 - [rsschool](https://github.com/Andreeva12/rsschool-cv)
 - [stepIT](https://github.com/Andreeva12/stepIT)
-- [Belarusian State Pedagogical University Named after Maxim Tank (BSPU)]
+- [Belarusian State Pedagogical University Named after Maxim Tank (BSPU)](https://bspu.by)
 
 
 
