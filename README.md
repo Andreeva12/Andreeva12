@@ -23,7 +23,7 @@ From a curious explorer to a detail-oriented QA tester, my journey in tech start
 ## Socials
 
 - **GitHub**: [Andreeva12](https://www.github.com/Andreeva12)
-- **LinkedIn**: [My LinkedIn](http://www.linkedin.com/in/katsiaryna-malashchytskaya-741a40300)
+- **LinkedIn**: [My LinkedIn](www.linkedin.com/in/katsiaryna-malashchytskaya-741a40300)
 - **TikTok**: [Dragon_bugs](https://www.tiktok.com/@dragon_bugs?_t=8lOMQB47gHO&_r=1) - Check out my programming memes!
 
 
@@ -36,16 +36,16 @@ I'm always on the lookout for collaborative projects, especially those aimed at 
 
 Feel free to reach out for collaborations, questions, or just to say hi:
 
-- 🌍  **Location**: Moldova
-- 🖥️  **LinkedIn**: [My LinkedIn](http://www.linkedin.com/in/katsiaryna-malashchytskaya-741a40300)
-- ✉️  **[Email](mailto:375447522509gercog@gmail.com)**
+- 🌍  **Location**: Moldova, Poland
+- 🖥️  **LinkedIn**: [My LinkedIn](www.linkedin.com/in/katsiaryna-malashchytskaya-741a40300)
+- ✉️  **[Email](mailto:andreevagercog@gmail.com)**
 
 
 
 🔭 This is all my education:
 - [rsschool](https://github.com/Andreeva12/rsschool-cv)
 - [stepIT](https://github.com/Andreeva12/stepIT)
-
+- [Belarusian State Pedagogical University Named after Maxim Tank (BSPU)]
 
 
 
