@@ -18,9 +18,126 @@ From a curious explorer to a detail-oriented QA tester, my journey in tech start
 
 ### Skills
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="50" height="50" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/108164455/209253674-80f643f3-df1a-44b7-9da3-38b4600b83f8.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/197982/html.svg" width="48" height="48" alt="Html" />
+      </a>
+      <br>Html
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" width="48" height="48" alt="TestNG" />
+      </a>
+      <br>TestNG
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="cucumber" width="48" height="48" alt="Cucumber" />
+      </a>
+      <br>Cucumber
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.svgrepo.com/show/353400/apache.svg" width="48" height="48" alt="ApachePOI" />
+      </a>
+      <br>ApachePOI
+    </td>
+   </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/108164455/209255415-5986ba91-7fb6-4c36-9aa1-89b104133014.png" width="48" height="48" alt="JMeter" />
+      </a>
+      <br>JMeter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/306453/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+  </tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="48" height="48" alt="REST Assured" />
+      </a>
+      <br>RestAssured
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/344880/github.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+   </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/108164455/209452977-23662e97-8f89-4a78-8172-70ae174df18c.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/376328/jira.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://pbs.twimg.com/profile_images/1034362081141817344/Yv4OcNVG_400x400.jpg" width="48" height="48" alt="Xray" />
+      </a>
+      <br>Xray
+    </td>
+   </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/108164455/209254972-4598b9c8-b5d6-46b7-896a-08867cbd6a7a.jpg" width="48" height="48" alt="Zephyr" />
+      </a>
+      <br>Zephyr
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/108164455/209253267-1f039c1b-3732-440b-947b-d2c3f8d7cd68.png" width="48" height="48" alt="Maven" />
+      </a>
+      <br>Maven
+  </tr>
+</table>
 
 
 ## Socials
