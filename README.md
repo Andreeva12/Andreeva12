@@ -1,6 +1,9 @@
 Hi 👋 My name is Katerina
 =========================
-I'm a QA software tester with a passion for technology and a knack for finding bugs where they least expect to be hiding. Born in Minsk, Belarus, and currently exploring the world from Moldova, I've turned my complicated last name into a conversation starter about my journey in tech. Do you think this is a joke? Try to say it without mistakes "Malashchitskaya".
+QA Engineer with hands-on experience in Quality Assurance and Software Testing, combining manual and automation testing to ensure high-quality web and e-commerce applications across the full SDLC.
+
+I work at the intersection of QA, UX, and business value, focusing on functional and non-functional testing to ensure stable, intuitive, and conversion-driven user flows. My e-commerce background allows me to identify risks early and prevent defects before they reach production.
+I've turned my complicated last name into a conversation starter about my journey in tech. Do you think this is a joke? Try to say it without mistakes "Malashchitskaya".
 
 ## About Me
 
