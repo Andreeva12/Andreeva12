@@ -139,7 +139,7 @@ From a curious explorer to a detail-oriented QA tester, my journey in tech start
       </a>
       <br>Maven
   </tr>
-</table>
+<tr><td align="center" width="96"><a href="#macropower-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td><td align="center" width="96"><a href="#macropower-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a><br>Node.js</td><td align="center" width="96"><a href="#macropower-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td><td align="center" width="96"><a href="#macropower-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" /></a><br>Supabase</td><td align="center" width="96"><a href="#macropower-tech"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/stripe.svg" width="48" height="48" alt="Stripe" /></a><br>Stripe</td></tr></table>
 
 **Also working with:** JavaScript · Node.js/Express · Chrome Extension APIs (Manifest V3) · Supabase · Stripe · WebSocket · AI API integration (Anthropic Claude, Deepgram, DeepL) · Railway
 
