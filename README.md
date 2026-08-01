@@ -54,7 +54,7 @@ From a curious explorer to a detail-oriented QA tester, my journey in tech start
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" width="48" height="48" alt="TestNG" />
+        <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" width="48" height="48" alt="TestNG" />
       </a>
       <br>TestNG
     </td>
